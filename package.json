@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-mongodb-devops",
+  "version": "1.0.0",
+  "description": "A simple Node.js and MongoDB app for a DevOps setup.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  },
+  "author": "Rithish Duguta <dugutarithishkumar@gmail.com> (https://skilled-seal-needed.ngrok-free.app)",
+  "license": "ISC"
+}
